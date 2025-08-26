@@ -1,0 +1,20 @@
+
+## How to Use
+1. Download datasets from `data/raw/` or source links.
+2. Follow cleaning steps in `scripts/cleaning_excel/`.
+3. Run SQL queries in `scripts/sql/` using SQLite or MySQL.
+4. Execute R scripts in `scripts/r/` using RStudio.
+5. Open Tableau workbooks in `visualizations/tableau/` using Tableau Public.
+6. Read reports in `report/` for detailed methodology and findings.
+
+## Prerequisites
+- **Excel**: Microsoft Excel or Google Sheets
+- **SQL**: DB Browser for SQLite
+- **R**: RStudio with `dplyr`, `ggplot2`, `corrplot`
+- **Tableau**: Tableau Public
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file.
+
+## Contact
+[Toritseju Atseyinku] | [Your LinkedIn Profile] | [atojudata@gmail.com]
